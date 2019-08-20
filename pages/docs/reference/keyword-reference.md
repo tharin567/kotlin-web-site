@@ -29,7 +29,7 @@ The following tokens are always interpreted as keywords and cannot be used as id
      - is used as an infix operator to check that a value belongs to [a range](/docs/reference/ranges.html), 
        a collection or another entity that [defines the 'contains' method](/docs/reference/operator-overloading.html#in)
      - is used in [when expressions](/docs/reference/control-flow.html#when-expression) for the same purpose
-     - marks a type parameter as [contravariant](/docs/reference/generics.html#declaration-site-variance)
+     - marks a type parameter as [contravariant](/docs/reference/generics.html#declaration-site-variance)a
  * `!in`
      - is used as an operator to check that a value does NOT belong to [a range](/docs/reference/ranges.html), 
        a collection or another entity that [defines the 'contains' method](/docs/reference/operator-overloading.html#in)
